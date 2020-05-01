@@ -1,0 +1,104 @@
+html{
+    font-size: 12pt;
+    font-family: Arial;
+}
+
+.menu-globocom{
+  background-color: #f3f3f3
+
+}
+
+.menu-globocom li{
+  display: inline-block;
+  padding: 5px;
+
+  
+}
+
+.menu-globocom ul{
+  margin: 0px;
+  
+}
+
+
+
+.globo{
+  color: #0669DE;
+}
+
+.g1{
+  color: #a80000;
+}
+
+.globoesporte{
+  color: #3e831e;
+}
+
+.gshow{
+  color: #ff7f00;
+}
+
+.videos{
+  color: #005cef;
+}
+
+
+  
+
+.brasileiraoa{
+  background-color: #3B9C01;
+color: white;
+text-align:center;
+padding: 35px;
+ 
+}
+
+.jogos{
+    text-align: right;
+}
+    
+
+nav{
+padding:5px;
+display: inline;
+ 
+}
+.nometabela{
+background-color: white;
+padding: 30PX;
+font color:#F2F2F2  12px;
+}
+
+.negrito{
+font font-weight: bold
+
+}
+
+.colunasdes,th{
+background-color: white;
+padding: 25px;
+text-align: center;
+}
+
+table,td {
+  
+  font font-family: arial
+  border-collapse: collapse;
+  width:50%;
+  height: 500%
+  font-size: 12pt;
+  background-color: #F4F4F4;
+  font color: #F2F2F2
+  padding:30PX;
+  border-style: ridge; 
+ 
+  
+}
+
+.search {
+  width: 100%;
+  font-size: 18px;
+  padding: 11px;
+  border: 1px solid #ddd;
+}
+
